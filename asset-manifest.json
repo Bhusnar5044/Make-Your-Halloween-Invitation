@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Make-Your-Halloween-Invitation/static/css/main.376b199d.chunk.css",
+    "main.js": "/Make-Your-Halloween-Invitation/static/js/main.56a4e648.chunk.js",
+    "main.js.map": "/Make-Your-Halloween-Invitation/static/js/main.56a4e648.chunk.js.map",
+    "runtime-main.js": "/Make-Your-Halloween-Invitation/static/js/runtime-main.ffb1d5b1.js",
+    "runtime-main.js.map": "/Make-Your-Halloween-Invitation/static/js/runtime-main.ffb1d5b1.js.map",
+    "static/js/2.c3d1314f.chunk.js": "/Make-Your-Halloween-Invitation/static/js/2.c3d1314f.chunk.js",
+    "static/js/2.c3d1314f.chunk.js.map": "/Make-Your-Halloween-Invitation/static/js/2.c3d1314f.chunk.js.map",
+    "static/js/3.fe796f0b.chunk.js": "/Make-Your-Halloween-Invitation/static/js/3.fe796f0b.chunk.js",
+    "static/js/3.fe796f0b.chunk.js.map": "/Make-Your-Halloween-Invitation/static/js/3.fe796f0b.chunk.js.map",
+    "index.html": "/Make-Your-Halloween-Invitation/index.html",
+    "static/css/main.376b199d.chunk.css.map": "/Make-Your-Halloween-Invitation/static/css/main.376b199d.chunk.css.map",
+    "static/js/2.c3d1314f.chunk.js.LICENSE.txt": "/Make-Your-Halloween-Invitation/static/js/2.c3d1314f.chunk.js.LICENSE.txt",
+    "static/media/BlackandOrangeVintageHorrorHalloweenPoster.64102604.png": "/Make-Your-Halloween-Invitation/static/media/BlackandOrangeVintageHorrorHalloweenPoster.64102604.png",
+    "static/media/Green and Orange Vintage Horror Halloween Poster.bfc50f64.jpg": "/Make-Your-Halloween-Invitation/static/media/Green and Orange Vintage Horror Halloween Poster.bfc50f64.jpg",
+    "static/media/Orange Skulls Pattern Halloween Party Poster.fb5adf56.jpg": "/Make-Your-Halloween-Invitation/static/media/Orange Skulls Pattern Halloween Party Poster.fb5adf56.jpg",
+    "static/media/Orange Spooky Graveyard Halloween Poster.86b6fb16.jpg": "/Make-Your-Halloween-Invitation/static/media/Orange Spooky Graveyard Halloween Poster.86b6fb16.jpg",
+    "static/media/Orange and Beige Illustration Wicked Cute Halloween Circle Sticker.2e0300e1.jpg": "/Make-Your-Halloween-Invitation/static/media/Orange and Beige Illustration Wicked Cute Halloween Circle Sticker.2e0300e1.jpg",
+    "static/media/Red and Black Woman Edgy Monochrome Halloween Party Poster.4354fcd7.jpg": "/Make-Your-Halloween-Invitation/static/media/Red and Black Woman Edgy Monochrome Halloween Party Poster.4354fcd7.jpg",
+    "static/media/creeplogo.9040dfd7.png": "/Make-Your-Halloween-Invitation/static/media/creeplogo.9040dfd7.png",
+    "static/media/hauntedhouse.cda78331.jpg": "/Make-Your-Halloween-Invitation/static/media/hauntedhouse.cda78331.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffb1d5b1.js",
+    "static/js/2.c3d1314f.chunk.js",
+    "static/css/main.376b199d.chunk.css",
+    "static/js/main.56a4e648.chunk.js"
+  ]
+}
