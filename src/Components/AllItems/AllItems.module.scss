@@ -1,0 +1,16 @@
+.main{
+    position: absolute;
+    width: 100%;
+    height: 550px;
+    top: 100px;
+    z-index: 1;
+    overflow: scroll;
+
+    .allItems{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        opacity: 0.8;
+    }
+}
